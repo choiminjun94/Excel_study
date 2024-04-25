@@ -17,8 +17,7 @@
 ```
 
  
-
-이미지 1 추가 
+![1](https://github.com/choiminjun94/Excel_study/assets/60457431/728955c1-21e4-46f9-9f33-d53b543593df)
 
 ### 빠른 채우기 
 
@@ -56,7 +55,7 @@
 
  ```
 
- 이미지 2 적용
+![2](https://github.com/choiminjun94/Excel_study/assets/60457431/294813c6-73bf-444c-915f-438bcde7aa5a)
 
 ### 숨기기 대신 그룹! 
 
