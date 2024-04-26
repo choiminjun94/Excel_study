@@ -116,11 +116,12 @@ Alt + 드래그
 
 ```
 
-이미지 3
+![3](https://github.com/choiminjun94/Excel_study/assets/60457431/0fcb3a36-334f-4e6b-a5f4-5d40e70ff01d)
 
-이미지 4
+![4](https://github.com/choiminjun94/Excel_study/assets/60457431/e5c9cf09-33cf-4810-936f-c148c1c4e3c2)
 
-이미지 5 
+![5](https://github.com/choiminjun94/Excel_study/assets/60457431/d9525238-bcf0-4acd-b3b5-eafa89b2f6f4)
+
 
 ### 하이퍼 링크, 한/영 바뀜 설정 변경 
 
@@ -139,14 +140,13 @@ Alt + 드래그
 파일 → 옵션 → 언어 교정 → 자동 고침 옵션 → 자동 고침 →  첫번째 영문 대문자로 해제
 
 ```
+![3](https://github.com/choiminjun94/Excel_study/assets/60457431/4f05bcbf-1fb9-4e78-852c-51cb5ccaed42)
 
-이미지 3
+![4](https://github.com/choiminjun94/Excel_study/assets/60457431/dc3f94b1-4d67-4805-a342-3365e6fa4720)
 
-이미지 4
+![5](https://github.com/choiminjun94/Excel_study/assets/60457431/f1c99432-d84d-4d73-b60f-3579c18f895c)
 
-이미지 5 
-
-이미지 6 
+![6](https://github.com/choiminjun94/Excel_study/assets/60457431/108ba9b2-5c60-45c4-82af-f7714ba3b9fd)
 
 ### 빠른실행 도구모음 단축키 설정 TIP 
 
@@ -170,14 +170,13 @@ alt + 숫자
 
 ```
 
-이미지 7 
+![7](https://github.com/choiminjun94/Excel_study/assets/60457431/f1fe6012-8f38-41ae-9b0e-ccb52d6a00bb)
 
-이미지 8 
+![8](https://github.com/choiminjun94/Excel_study/assets/60457431/8e3fbc48-269f-48a5-a396-e14c86764c34)
 
-이미지 9 
+![9](https://github.com/choiminjun94/Excel_study/assets/60457431/828c1e6e-67f4-45fd-851b-acd8767647d8)
 
-이미지 10 
-
+![10](https://github.com/choiminjun94/Excel_study/assets/60457431/b7e48b22-1b37-4447-b5e7-cc07b1dcfca4)
 
 ### 셀 수정 방법 
 
