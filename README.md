@@ -30,3 +30,11 @@
 [셀 수정 방법](file/README.md#셀-수정-방법)
 
 [순위 만들기](file/README.md#순위-만들기)
+
+[셀을 쉽게 옮기는 방법, Shift](file/README.md#셀을-쉽게-옮기는-방법-shift)
+
+[복사/붙이기 한 범위의 열 너비를 맞추는 TIP](file/README.md#복사붙이기-한-범위의-열-너비를-맞추는-tip)
+
+[엑셀의 MiniMap '상태 표시줄' 확인](file/README.md#엑셀의-minimap-상태-표시줄-확인)
+
+[실무에서 발생하는 '셀 병합' 문제 해결 TIP!!](file/README.md#실무에서-발생하는-셀-병합-문제-해결-tip)
