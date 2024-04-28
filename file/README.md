@@ -227,7 +227,12 @@ alt + 숫자
 만약에 내가 최솟값이나 최대값도 같이 보고 싶으면 상태 표시줄을 우클릭하여 옵션을 체크 하면 된다.
 
 ```
-이미지 333,444,555 추가 
+
+![333](https://github.com/choiminjun94/Excel_study/assets/60457431/c4088f47-5735-476b-8112-a2c76f8d5f32)
+
+![444](https://github.com/choiminjun94/Excel_study/assets/60457431/038d1f29-f31f-4942-8d46-37611e3cfb4a)
+
+![555](https://github.com/choiminjun94/Excel_study/assets/60457431/1137a555-769b-461f-b1bd-6b8f9fa99b5c)
 
 
 ### 실무에서 발생하는 '셀 병합' 문제 해결 TIP!! 
@@ -244,4 +249,9 @@ alt + 숫자
 5. 확인
 
 ```
-이미지 1.2.3 추가
+
+![1](https://github.com/choiminjun94/Excel_study/assets/60457431/35eb3602-6390-431e-80cf-54bcbbe145ca)
+
+![2](https://github.com/choiminjun94/Excel_study/assets/60457431/e6e41df2-33c7-4005-b054-223b092ea056)
+
+
