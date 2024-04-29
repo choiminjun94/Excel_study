@@ -272,9 +272,11 @@ alt + 숫자
 
 ```
 
-이미지 1
-이미지 2
-이미지 3
+![1](https://github.com/choiminjun94/Excel_study/assets/60457431/4de0ff66-d3cd-411c-afac-bc1bf378314c)
+
+![2](https://github.com/choiminjun94/Excel_study/assets/60457431/fa57c2e1-9983-4121-bdd2-54ce834c97c3)
+
+![3](https://github.com/choiminjun94/Excel_study/assets/60457431/d03635e8-07e8-424e-8ccb-ec06ba44deb9)
 
 ### 실무에서 바로 쓰는 $기호 활용 예제
 
@@ -291,13 +293,14 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 
 ```
 
-123456
+![123456](https://github.com/choiminjun94/Excel_study/assets/60457431/eaa5f740-2324-4f70-81ad-117891dc2670)
 
-123
+![123](https://github.com/choiminjun94/Excel_study/assets/60457431/82753bff-46a5-4caa-8966-b64a030d22ce)
 
-1234
+![1234](https://github.com/choiminjun94/Excel_study/assets/60457431/bac3ca8e-04dc-40b2-89a5-a73f43eb5cea)
 
-12345
+![12345](https://github.com/choiminjun94/Excel_study/assets/60457431/dc9835a7-30b9-46a1-8745-9a482b58e6a7)
+
 
  ### 실무에서 셀 서식이 중요한 이유 
 
@@ -326,8 +329,8 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
  ex) [빨강]#,##0;[파랑]#,##0;-
 
 ```
+![4](https://github.com/choiminjun94/Excel_study/assets/60457431/97823abe-1457-467a-86fa-5defa8ae9353)
 
-이미지 4
+![5](https://github.com/choiminjun94/Excel_study/assets/60457431/d1f004ba-65e0-442c-bc3b-b898a3bcc967)
 
-이미지 5
 
