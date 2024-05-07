@@ -345,9 +345,11 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 
 ```
 
-이미지1
-이미지2
-캡쳐 이미지 1
+![1](https://github.com/choiminjun94/Excel_study/assets/60457431/f16615bb-f806-478e-8877-e7bc2d406161)
+
+![2](https://github.com/choiminjun94/Excel_study/assets/60457431/dc03c821-78a7-44fa-b095-dd15c3697f00)
+
+![1](https://github.com/choiminjun94/Excel_study/assets/60457431/9505512b-2b1a-4e74-b345-5a9e3a5ba001)
 
 ### 원클릭 자동화 문서 만들기 - 키워드 강조
 
@@ -360,9 +362,11 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 
 ```
 
-이미지 3
-이미지 4
-캡쳐 이미지 2
+![3](https://github.com/choiminjun94/Excel_study/assets/60457431/968d8328-8e07-439b-9d10-fcac45bf6276)
+
+![4](https://github.com/choiminjun94/Excel_study/assets/60457431/260ac65b-3eb1-46ed-85c6-0519c91cde56)
+
+![2](https://github.com/choiminjun94/Excel_study/assets/60457431/cb8ad6ba-12d5-4271-8449-abb9ace6929b)
 
 ### 원클릭 자동화 문서 만들기 - 데이터 막대
 
@@ -379,8 +383,10 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 데이터 막대 사용할 곳 선택 > 홈 > 조건부 서식 >데이터 막대 > 원하는 색상 선택
 
 ```
-이미지 5
-이미지 5.1 
+
+![5](https://github.com/choiminjun94/Excel_study/assets/60457431/af7694bc-29be-4b53-bb82-32a1d1e3ee37)
+
+![5 1](https://github.com/choiminjun94/Excel_study/assets/60457431/c0d6f3dc-5cf7-435f-a9df-e6d400a7ca8f)
 
 ### 고급스러운 데이터 막대를 만드는 방법
 
@@ -395,9 +401,12 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 데이터 막대 사용할 곳 선택 > 홈 > 조건부 서식 >데이터 막대 > 기타 규칙 > 색 선택 > 채우기 > 그라데이션 선택
 
 ```
-이미지 5
-이미지 6
-이미지 6.1
+![5](https://github.com/choiminjun94/Excel_study/assets/60457431/170d4aaa-08e6-46bd-99c5-5901ff3ba1dc)
+
+![6](https://github.com/choiminjun94/Excel_study/assets/60457431/55b5c546-fe27-427f-93ba-e7dc172c887b)
+
+![6 1](https://github.com/choiminjun94/Excel_study/assets/60457431/770e2841-f188-493c-8008-ddf2a16132e7)
+
 
 ### 원클릭 트렌드 분석! - 스파크라인
 
@@ -421,14 +430,17 @@ C뒤에 $를 사용한 이유는 4행을 자체는 고정한 채 열을 증가 �
 2. (심화)스파크라인 범위 선택 > 스파크라인 탭 선택 > 스파크라인 색(기본적인 색상) 선택 > 표식 색 선택 (회사의 색상에 따라 선택도 가능) 
 
 ```
-이미지 7
 
-이미지 8 
+![7](https://github.com/choiminjun94/Excel_study/assets/60457431/c7f9e0ae-ae58-4291-b4d8-854059a15f84)
 
-이미지 9
+![8](https://github.com/choiminjun94/Excel_study/assets/60457431/17933bbe-7e52-4848-822b-978315c39250)
 
-이미지 10
-이미지 10.1
+![9](https://github.com/choiminjun94/Excel_study/assets/60457431/72cf4bec-7da3-4328-96a1-298b6ad149b8)
+
+![10](https://github.com/choiminjun94/Excel_study/assets/60457431/2184ef80-d1f6-4d73-a85e-ded7e6557e6f)
+
+![10 1](https://github.com/choiminjun94/Excel_study/assets/60457431/def5f77d-fec6-4d0f-ae80-309a6cdf7a5f)
+
 
 ### 원클릭 대시보드 완성! - 아이콘 집합
 
@@ -450,8 +462,10 @@ Ctrl + Shift + 3
 적용 범위 선택 > 홈 > 조건부 선택 > 아이콘 집합 > 기타 규칙 > 종류(숫자) > 내규에 따른 값 입력
 
 ```
-이미지 11
-이미지 12
-이미지 13
-이미지 14
+![11](https://github.com/choiminjun94/Excel_study/assets/60457431/2edc4a6c-c33c-4aba-9185-7fa7a5347c7b)
 
+![12](https://github.com/choiminjun94/Excel_study/assets/60457431/3bcc31e0-961f-441e-bb4e-c5b0d2969ae0)
+
+![13](https://github.com/choiminjun94/Excel_study/assets/60457431/7d65131b-d892-4a6f-be27-27c86899de19)
+
+![14](https://github.com/choiminjun94/Excel_study/assets/60457431/afe30e03-0997-467a-b3ed-86b70062bce7)
